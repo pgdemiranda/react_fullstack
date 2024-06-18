@@ -1,4 +1,5 @@
 import React from 'react'
+import './App.css'
 import Adicao from './components/Adicao'
 import Subtracao from './components/Subtracao'
 import Multiplicacao from './components/Multiplicacao'
