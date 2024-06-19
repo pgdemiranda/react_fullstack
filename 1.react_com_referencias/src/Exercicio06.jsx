@@ -1,13 +1,12 @@
 import React from 'react'
 import './App.css'
-import ToDoList from './components/ToDoList'
+import HookContador from './components/HookContador'
 
 const App = () => {
-
   return (
     <div className='container'>
-      <h1>To-Do List</h1>
-      <ToDoList />
+        <h1>Contador</h1>
+        <HookContador />
     </div>
   )
 }
