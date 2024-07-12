@@ -18,6 +18,3 @@ Aqui já tentei ao máximo evitar referências que não fossem os slides da aula
 
 ## 3.react_sem_referencias_at_atll
 1. Por fim, refiz todos os passos evitando ao máximo consultas paralelas (sem uso de IA, referências escritas ou procura na internet). Quando foram necessárias, usei minhas próprias anotações para refazer os passos dos rounds anteriores.
-
-### Hábitos que eu cultivei:
-1. 
